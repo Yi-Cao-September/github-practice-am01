@@ -25,7 +25,6 @@
 # Class GitHub Table with all portfolio websites
 
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
-|:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
 |01|Othman Bensouda   | 2     | OthmanBensouda |<https://github.com/OthmanBensouda/Orion>   |<https://othman-portfolio.netlify.app/>        |2020-09-01 |
 |02|Filippo de Bortoli | 14 | filippodebortolilbs |<https://github.com/filippodebortolilbs/filippodebortoli_portfolio> | <https://fdbportfolio.netlify.app/> | 2020-09-03| 
@@ -110,3 +109,4 @@
 |80|Rick van der Linden | 8 | RickLinden | <https://github.com/RickLinden/my_website> | <https://rickvdlinden.netlify.app/> |2 /09/20 |
 |81| Maddy Goodman | 4 | maddy-g6 | <https://github.com/maddy-g6/my_website> | <https://maddygoodman-portfolio.netlify.app/> |2020-09-20 |
 |82|Jiakuo Li | 4 | Jiakuo-Li | <https://github.com/Jiakuo-Li/Personal-Website> | <https://jiakuo-li.netlify.app/> |2020-09-20 |
+|83|:Yi Cao   |10|Yi-Cao-September |<https://github.com/Yi-Cao-September/my_website> |<https://yicao.netlify.app/>         |2020-10-02 
